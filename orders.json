@@ -1,0 +1,38 @@
+
+[
+  {
+    "order_id": "ORD101",
+    "customer": "Rahul",
+    "items": ["Veg Burger", "French Fries"],
+    "status": "Out for delivery",
+    "estimated_delivery": "15-20 minutes"
+  },
+  {
+    "order_id": "ORD102",
+    "customer": "Priya",
+    "items": ["Pizza", "Cold Coffee"],
+    "status": "Preparing",
+    "estimated_delivery": "25-30 minutes"
+  },
+  {
+    "order_id": "ORD103",
+    "customer": "Amit",
+    "items": ["Sandwich", "Fresh Juice"],
+    "status": "Delivered",
+    "estimated_delivery": "Order delivered"
+  },
+  {
+    "order_id": "ORD104",
+    "customer": "Sneha",
+    "items": ["Pasta", "Garlic Bread"],
+    "status": "Order confirmed",
+    "estimated_delivery": "35-40 minutes"
+  },
+  {
+    "order_id": "ORD105",
+    "customer": "Neha",
+    "items": ["Paneer Wrap", "Lemon Soda"],
+    "status": "Cancelled",
+    "estimated_delivery": "Order cancelled"
+  }
+]

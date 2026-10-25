@@ -1,0 +1,153 @@
+
+[
+  {
+    "id": 1,
+    "question": "How can I cancel my order?",
+    "keywords": ["cancel", "cancellation", "stop order"],
+    "answer": "You can request cancellation before the order is prepared. Open your order details and check whether cancellation is available. Once preparation or delivery has started, cancellation may not be possible."
+  },
+  {
+    "id": 2,
+    "question": "How can I get a refund?",
+    "keywords": ["refund", "money back", "reimbursement"],
+    "answer": "If your order is eligible for a refund, submit a request through the Help section. The refund timeline depends on the payment method and the reason for the request."
+  },
+  {
+    "id": 3,
+    "question": "What payment methods are accepted?",
+    "keywords": ["payment", "pay", "cash", "upi", "card"],
+    "answer": "Our demo service supports UPI, debit cards, credit cards, and cash on delivery where available. These are example payment options for our Customers."
+  },
+  {
+    "id": 4,
+    "question": "What should I do if an item is missing?",
+    "keywords": ["missing", "item missing", "not received", "missing item"],
+    "answer": "Please report the missing item through the Help section. Mention the item name and order ID so the support team can review the issue."
+  },
+  {
+    "id": 5,
+    "question": "Why is my order delayed?",
+    "keywords": ["late", "delay", "delayed", "delivery late"],
+    "answer": "An order may be delayed because of traffic, weather, or preparation time. Check your order status for the latest information available in Order Section."
+  },
+  {
+    "id": 6,
+    "question": "How can I apply a coupon?",
+    "keywords": ["coupon", "promo code", "discount", "offer"],
+    "answer": "Enter your coupon code in the offers or checkout section before placing an order. Discounts depend on the coupon conditions."
+  },
+  {
+    "id": 7,
+    "question": "What are the delivery charges?",
+    "keywords": ["delivery charge", "delivery fee", "shipping fee"],
+    "answer": "Delivery charges may depend on distance, order value, and available offers. In a real service, the applicable fee would be displayed before checkout."
+  },
+  {
+    "id": 8,
+    "question": "How can I contact customer support?",
+    "keywords": ["contact", "support", "help", "customer care", "contact support"],
+    "answer": "Open the Help section of the service to find support options. This college prototype does not connect to a real customer-support team."
+  },
+  {
+    "id": 9,
+    "question": "Can I change my delivery address?",
+    "keywords": ["change address", "delivery address", "wrong address", "edit address"],
+    "answer": "You may be able to update your delivery address before the order is dispatched. Open your order details and check whether address editing is available."
+  },
+  {
+    "id": 10,
+    "question": "What if I receive the wrong item?",
+    "keywords": ["wrong item", "incorrect item", "different item"],
+    "answer": "Report the issue through the Help section. Include the item you ordered, the item you received, and your order ID."
+  },
+  {
+    "id": 11,
+    "question": "Can I pay using UPI?",
+    "keywords": ["upi payment", "pay using upi", "google pay", "phonepe"],
+    "answer": "UPI is one of the example payment methods supported by our fictional demo service. Actual payment options would depend on the real service."
+  },
+  {
+    "id": 12,
+    "question": "Can I place an order without creating an account?",
+    "keywords": ["guest order", "without account", "without signup", "without registering"],
+    "answer": "Guest ordering depends on the service's policies. Please check the sign-in and checkout options in the actual app you are using."
+  },
+  {
+    "id": 13,
+    "question": "How do I track my order?",
+    "keywords": ["track order", "track my order", "order tracking", "order status"],
+    "answer": "Enter your sample order ID, such as ORD101, in the chat to view its predefined status in this demonstration."
+  },
+  {
+    "id": 14,
+    "question": "What if my order shows delivered but I have not received it?",
+    "keywords": ["not received", "marked delivered", "delivery missing", "not delivered"],
+    "answer": "Check the delivery location and any delivery notifications. If the order is still missing, report the issue through the service's Help section."
+  },
+  {
+    "id": 15,
+    "question": "Can I change my order after placing it?",
+    "keywords": ["modify order", "change order", "edit order", "add item"],
+    "answer": "Order modifications may be possible only before preparation begins. Open your order details to check the available options."
+  },
+  {
+    "id": 16,
+    "question": "What should I do if payment fails?",
+    "keywords": ["payment failed", "failed payment", "transaction failed"],
+    "answer": "Check your payment app or bank for the transaction status before trying again. If money was deducted, contact the payment provider or service support for assistance."
+  },
+  {
+    "id": 17,
+    "question": "Why was my order cancelled?",
+    "keywords": ["order cancelled", "cancellation reason", "cancelled automatically"],
+    "answer": "An order may be cancelled because of availability, payment problems, or other service-related issues. Check the cancellation notice or contact the service's support team."
+  },
+  {
+    "id": 18,
+    "question": "Can I schedule an order for later?",
+    "keywords": ["schedule order", "order later", "future delivery", "schedule delivery"],
+    "answer": "Scheduled ordering depends on the service and location. Check whether a scheduling option is available during checkout."
+  },
+  {
+    "id": 19,
+    "question": "How do I report a damaged item?",
+    "keywords": ["damaged item", "spoiled food", "broken item", "poor quality"],
+    "answer": "Report the damaged or poor-quality item through the Help section. Include your order ID and a clear description of the problem."
+  },
+  {
+    "id": 20,
+    "question": "Are delivery charges refundable?",
+    "keywords": ["delivery refund", "refund delivery fee", "delivery charge refund"],
+    "answer": "Whether delivery charges are refunded depends on the service's refund policy and the circumstances of the order."
+  },
+  {
+    "id": 21,
+    "question": "How can I use a referral code?",
+    "keywords": ["referral", "refer a friend", "referral code"],
+    "answer": "If referral offers are available, enter the referral code in the designated section of the app. Eligibility and rewards depend on the offer terms."
+  },
+  {
+    "id": 22,
+    "question": "Can I get an invoice for my order?",
+    "keywords": ["invoice", "bill", "receipt", "order receipt"],
+    "answer": "Check your order details or confirmation message for an invoice or receipt. Availability depends on the service's billing features."
+  },
+  {
+    "id": 23,
+    "question": "What happens if a restaurant is closed?",
+    "keywords": ["restaurant closed", "store closed", "outlet closed"],
+    "answer": "If a restaurant or outlet is unavailable, you may need to select another option. If you have already paid for an affected order, check the order status and contact support."
+  },
+  {
+    "id": 24,
+    "question": "Can I rate my delivery experience?",
+    "keywords": ["rating", "review", "rate order", "feedback"],
+    "answer": "If the service offers ratings, you can usually submit feedback from the completed order details. Keep your feedback specific and respectful."
+  },
+  {
+    "id": 25,
+    "question": "Is this a real food delivery service?",
+    "keywords": ["real service", "real company", "demo", "fictional", "real orders"],
+    "answer": "No. FAQgent AI is a college mini-project prototype. It uses sample FAQs and fictional order records and is not connected to a real food-delivery service."
+  }
+]
